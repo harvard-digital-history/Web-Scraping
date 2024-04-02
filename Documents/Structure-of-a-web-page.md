@@ -53,6 +53,6 @@ As the name suggests, this component is responsible for rendering a specific web
 <a href="http://www.harvard.edu" title="">this is a link</a>
 <p>This is <i>some</i> text</p>
 <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Ancient_Egypt_and_Mesopotamia_c._1450_BC.png" height="800" width="100"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Ancient_Egypt_and_Mesopotamia_c._1450_BC.png" height="800" width="800"/>
 </p>
 
