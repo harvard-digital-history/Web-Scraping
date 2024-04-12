@@ -43,11 +43,8 @@ This is a two-day workshop with three hours of instruction on each day. You can 
 ### Day 2
 
 >[!IMPORTANT]
->You'll need a working installation of [Python](https://www.python.org) and [Jupyter Notebooks](https://jupyterlab.readthedocs.io/en/latest/user/notebook.html). Setup instructions for both can be found [here](https://github.com/harvard-digital-history/Introduction-to-Python/blob/main/Documents/Getting_started.md). You will also need to install [Selenium](https://www.selenium.dev) (a browser automation tool), following the [instructions here](/Documents/Setup_instructions.md).
+>Please follow the [instructions here](/Documents/Setup_instructions.md) to ensure you have the necessary software for day 2.
 >
-
->[!TIP]
-> If you are not familiar with Python, or need a refresher, you may want to go over Unit 1 of [this workshop](https://github.com/harvard-digital-history/Introduction-to-Python).
 
 #### Programmatic approaches
 - Shortcuts
