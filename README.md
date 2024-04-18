@@ -46,11 +46,11 @@ This is a two-day workshop with three hours of instruction on each day. You can 
 >Please follow the [instructions here](/Documents/Setup_instructions.md) to ensure you have the necessary software for day 2.
 >
 
-#### Programmatic approaches
-- Shortcuts
-- Using APIs
+#### Shortcut: Using pandas read_html
 
 #### HTML Parsing with BeautifulSoup
+
+#### Using APIs
 
 #### DOM Parsing with Selenium
 
